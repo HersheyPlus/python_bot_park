@@ -1,18 +1,10 @@
-# python
-python==3.11.5
-
 # pip
 pip==24.3.1
 
-# Web Scraping and Automation
-selenium==4.18.1
-webdriver-manager==4.0.1
+# Web Scraping
+scrapy==2.10.1
 requests==2.31.0
 beautifulsoup4==4.12.3
-
-# Browser Automation
-undetected-chromedriver==3.5.5
-fake-useragent==1.4.0
 
 # HTTP/Network
 httpx==0.27.0
@@ -38,3 +30,6 @@ pytest-cov==4.1.0
 black==24.2.0
 flake8==7.0.0
 isort==5.13.2
+
+# GUI
+pysimplegui==5.0.7
